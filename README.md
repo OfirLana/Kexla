@@ -4,10 +4,10 @@
 ![Nuget](https://img.shields.io/nuget/v/Ofir.Kexla)
 ![Nuget](https://img.shields.io/nuget/dt/Ofir.Kexla)
 
-Kexla is avialbe via [NuGet](https://www.nuget.org/packages/Ofir.Kexla). 
+Kexla is available via [NuGet](https://www.nuget.org/packages/Ofir.Kexla). 
 
 ## Whats new 0.5.5
-added an option to directly use a string query at ```C# WMISearcher.Query```
+Added an option to directly use a string query at ```C# WMISearcher.Query```
 
 for example
 
